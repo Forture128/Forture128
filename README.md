@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href=https://github.com/Forture128>
+  <img align="center" height="160em" src="https://github-readme-stats-six-alpha-24.vercel.app/api?username=Forture128&show_icons=true&theme=transparent" />
+</a>
